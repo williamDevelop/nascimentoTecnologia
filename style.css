@@ -311,3 +311,12 @@ nav ul li a:hover {
     max-width: 220px;
   }
 }
+
+.contact-link {
+  color: white;
+  text-decoration: underline;
+}
+
+.contact-link:visited {
+  color: white;
+}
